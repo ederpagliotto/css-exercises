@@ -1,0 +1,20 @@
+.odd {
+    background-color: #FF7F7F;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.coolest {
+    font-size: 24px;
+}
+
+#even {
+    color: #0000FF;
+    font-size: 36px;
+}
+
+
+#another {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
